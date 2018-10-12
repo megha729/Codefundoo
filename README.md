@@ -9,6 +9,8 @@ We can detect the agricultural drought of a region by calculating the correlatio
 The Combination of (NDVI) normalized difference vegetation index and LST, provides very useful information for agricultural drought monitoring and early warning system for the farmers. By calculating the correlation between LST and NDVI, it can be clearly noticed that they show a high negative correlation.
 We can use geospatial techniques like remote sensing and GIS for monitoring of droughts.
 The different varying parameters such as increasing temperature and changing weather greatly alters the soil properties and hence result in decrease of crop production.
-We can calculat soil moisture index which represents soil moisture content.
+We can calculate soil moisture index which represents soil moisture content.
+We shall be using sensors and technologies currently available like GIS to detect the present soil quality and pre-analyse the drought vulnerability in that area.
+
 
 
